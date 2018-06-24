@@ -14,3 +14,4 @@ class CategoriesTableSeeder extends Seeder
         }
     }
 }
+
